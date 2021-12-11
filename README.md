@@ -20,3 +20,7 @@ https://github.aiyc.top/aiyccdn/+你的文件路径
 ```ffmepg
 ffmpeg -i [文件名].mp4 -profile:v baseline -level 3.0 -s 1920x1080 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls [生成m3u8文件名].m3u8
 ```
+
+```url
+https://github.aiyc.top/aiyccdn/
+```
